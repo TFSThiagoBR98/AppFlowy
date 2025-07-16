@@ -1560,5 +1560,69 @@
     "date": "Data",
     "addField": "Adicionar campo",
     "userIcon": "Ícone do usuário"
+  },
+  "autoUpdate": {
+    "bannerUpdateButton": "Atualizar",
+    "settingsUpdateTitle": "Nova Versão ({newVersion}) está Disponível!",
+    "settingsUpdateDescription": "Versão atual: {currentVersion} (Build oficial) → {newVersion}",
+    "settingsUpdateButton": "Atualizar",
+    "settingsUpdateWhatsNew": "Quais as Novidades"
+  },
+  "lockPage": {
+    "lockPage": "Bloqueado",
+    "reLockPage": "Re-bloquear",
+    "lockTooltip": "Página bloqueada para prevenir edição acidental. Clique para desbloquear. "
+  },
+  "suggestion": {
+    "accept": "Aceitar",
+    "keep": "Manter",
+    "discard": "Descartar",
+    "close": "Fechar",
+    "tryAgain": "Tentar novamente",
+    "rewrite": "Reescrever",
+    "insertBelow": "Inserir abaixo"
+  },
+  "shareTab": {
+    "accessLevel": {
+      "view": "Ver",
+      "comment": "Comentar",
+      "edit": "Editar",
+      "fullAccess": "Acesso total"
+    },
+    "inviteByEmail": "Convidar por email",
+    "invite": "Convidar",
+    "anyoneAtWorkspace": "Todos em {workspace}",
+    "anyoneInGroupWithLinkCanEdit": "Todos nesse grupo com o link podem editar",
+    "copyLink": "Copiar link",
+    "copiedLinkToClipboard": "Copiado para a área de transferência",
+    "removeAccess": "Remover acesso",
+    "turnIntoMember": "Converter em membro",
+    "you": "(Você)",
+    "guest": "Convidado",
+    "onlyFullAccessCanInvite": "Somente usuários com acesso total podem convidar outros",
+    "invitationSent": "Convite enviado",
+    "emailAlreadyInList": "O email já está na lista",
+    "upgradeToProToInviteGuests": "Faça um upgrade para o Plano Pro para fazer mais convites",
+    "maxGuestsReached": "Você atingiu o número de convidados máximo",
+    "removedGuestSuccessfully": "Convidado removido com sucesso",
+    "updatedAccessLevelSuccessfully": "Nível de acesso atualizado com sucesso",
+    "turnedIntoMemberSuccessfully": "Conversão em membro feita com sucesso",
+    "peopleAboveCanAccessWithLink": "As pessoas acima podem acessar com o link",
+    "cantMakeChanges": "Não pode fazer mudanças",
+    "canMakeAnyChanges": "Pode fazer mudanças",
+    "generalAccess": "Acesso Geral",
+    "peopleWithAccess": "Pessoas com acesso",
+    "upgrade": "Faça um Upgrade",
+    "toProPlanToInviteGuests": "para o plano Pro para convidar mais pessoas a essa página",
+    "upgradeToInviteGuest": {
+      "title": {
+        "owner": "Faça um Upgrade para convidar",
+        "member": "Faça um Upgrade para convidar",
+        "guest": "Faça um Upgrade para convidar"
+      },
+      "description": {
+        "owner": "Seu Workspace está atualmente no plano gratuito. Faça um upgrade para o plano Pro para permitir o acesso de usuários externos a essa página como convidados."
+      }
+    }
   }
 }
